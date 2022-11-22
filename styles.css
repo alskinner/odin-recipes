@@ -1,0 +1,15 @@
+body {
+    background-image: url("foodbackground.jpeg");
+}
+
+div {
+    text-align: center;
+    background-color: darkgoldenrod;
+    margin: 50px 400px;
+    padding: 30px 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: black;
+}

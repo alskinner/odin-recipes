@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(178, 51, 34);
+}
+
+h1, h2, p {
+    font-family: Copperplate Papyrus Fantasy;
+    text-align: center;
+}
+
+ul, ol {
+    background-color: rgb(238, 164, 67);
+    width: 700px;
+    margin-left: 350px;
+    margin-right: 200px;
+}
+
+div {
+    text-align: center;
+}
